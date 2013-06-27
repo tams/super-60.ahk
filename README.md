@@ -1,7 +1,9 @@
-﻿Super/60% layer
+Super/60% layer
 ===============
 
 This [AutoHotKey](http://www.autohotkey.com/ "AutoHotKey") script provides another layer of keys for a bit of extra comfort by having to move your hands less.
+
+Quick download: [super-60.ahk](https://rawgithub.com/tams/super-60.ahk/master/super-60.ahk)
 
 ## The layout
 
